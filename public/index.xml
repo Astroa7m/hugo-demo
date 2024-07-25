@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Some site</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Some site</description>
+    <generator>Hugo -- 0.129.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 24 Jul 2024 00:10:01 +0300</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First post</title>
+      <link>//localhost:1313/posts/second/</link>
+      <pubDate>Wed, 24 Jul 2024 00:10:01 +0300</pubDate>
+      <guid>//localhost:1313/posts/second/</guid>
+      <description>This is a heading one Hello This is my very first article on my site created with hugo I really like how easy, fast, simple, intuitive it is to create websites with this framework. I am currently learning and in the future I will create the desired websites I need to accomplish my goals. For now, enjoy the following sample test.
+dspigapigjirwogjirwjgi toheouhqouth oq toqhtoiheqothe othoiqehtioqeht qothioqethioeht rhqoiehoihe394u39 jai j903u4903iijklf j309uo94ujelkaj90r90u ifjwj93u4 94u1p ij 491u39 lak ru19ru p ht ht1h t2h 02ht2th 2th h2t 28h10h q8r qaf.</description>
+    </item>
+    <item>
+      <title>Second post</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Wed, 24 Jul 2024 00:10:01 +0300</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>This is a heading one Hello This is my very first article on my site created with hugo I really like how easy, fast, simple, intuitive it is to create websites with this framework. I am currently learning and in the future I will create the desired websites I need to accomplish my goals. For now, enjoy the following sample test.
+dspigapigjirwogjirwjgi toheouhqouth oq toqhtoiheqothe othoiqehtioqeht qothioqethioeht rhqoiehoihe394u39 jai j903u4903iijklf j309uo94ujelkaj90r90u ifjwj93u4 94u1p ij 491u39 lak ru19ru p ht ht1h t2h 02ht2th 2th h2t 28h10h q8r qaf.</description>
+    </item>
+  </channel>
+</rss>

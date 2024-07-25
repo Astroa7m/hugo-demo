@@ -1,0 +1,54 @@
+baseURL: ''
+languageCode: en-us
+title: Some site
+theme: PaperMod
+
+params: 
+
+  homeInfoParams:
+    Title: "Hello Strangers"
+    Content: "Welcome to the site where we share some good stuff"
+
+    socialIcons:
+      - name: "facebook"
+        url: "github.com"
+
+      - name: "insragram"
+        url: "github.com"
+
+      - name: "github"
+        url: "github.com"
+
+
+    cover:
+        linkfullimages: true
+    
+    showbreadcrumbs: true
+
+
+    showReadingTime: true
+
+    showShareButtons: true
+
+    showPostNavLinks: true
+menu: 
+  main:
+    - identifier: categories
+      name: Category
+      url: /categories/
+      weight: 1
+
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 2
+
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 3
+
+    - identifier: someothercate
+      name: Some other Category
+      url: /sog/
+      weight: 4 
