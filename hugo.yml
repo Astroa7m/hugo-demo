@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://master--hugodemoastro.netlify.app/'
 languageCode: en-us
 title: Some site
 theme: PaperMod
@@ -31,6 +31,8 @@ params:
     showShareButtons: true
 
     showPostNavLinks: true
+
+
 menu: 
   main:
     - identifier: categories
